@@ -1,0 +1,6 @@
+{
+  "name": "منصة توثيق برامج وأنشطة مجمع الشريعة التعليمي",
+  "description": "منصة إلكترونية متكاملة لرفع وتوثيق وأرشفة صور البرامج والفعاليات والأنشطة المدرسية لمجمع الشريعة التعليمي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
